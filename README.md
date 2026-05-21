@@ -1,90 +1,109 @@
 # Hi, I'm Xumoyun
 
-Cybersecurity Student | SOC Analyst Path | Blue Team | Detection | Incident Analysis
-
----
+Cybersecurity Student | Blue Team | Threat Hunting | Detection Engineering | DFIR
 
 ## About Me
 
-* 3rd-year Cybersecurity student
-* Focused on SOC operations, incident response, and practical security labs
-* Interested in threat detection, log analysis, brute force detection, phishing analysis, and network security
-* Building real cybersecurity projects and GitHub case studies
-* Continuously improving Linux, networking, and defensive security skills
+3rd-year Cybersecurity student focused on:
+
+* SOC operations
+* Threat detection
+* Network traffic analysis
+* Detection engineering
+* Incident investigation
+* Defensive security labs
+
+Building practical cybersecurity projects involving:
+
+* DNS threat hunting
+* Malware traffic analysis
+* IOC extraction
+* Authentication monitoring
+* Brute-force detection
+* SIEM-based detection labs
+
+Currently improving practical Blue Team and DFIR skills for Junior SOC Analyst roles.
 
 ---
 
-## Skills & Tools
+## Skills & Technologies
 
-### Security
+### Security Operations
 
-* SIEM Basics
-* Event ID Analysis
-* Incident Investigation
+* Threat Hunting
+* IOC Analysis
+* PCAP Investigation
+* Event Log Analysis
 * Brute Force Detection
-* Phishing Analysis
-* Network Traffic Analysis
-* Access Control Testing
-* Web Security Basics
+* Authentication Monitoring
+* Malware Traffic Analysis
+* Detection Engineering
+* Incident Investigation
 
-### Tools
+### Tools & Platforms
 
+* Linux
 * Kali Linux
+* Wazuh
 * Wireshark
+* Tshark
 * Burp Suite
-* Hydra
 * Nmap
-* Wazuh (learning)
-* Linux Terminal
+* Hydra
 * VirtualBox
 * Git / GitHub
-* Python (basic scripting)
+
+### Scripting
+
+* Python (Security Automation & Detection Scripts)
 
 ---
 
-## Projects
+## Featured Projects
 
-### ARP Spoofing Attack Analysis
+### DNS Threat Hunting Engine
 
-MITM attack simulation in a controlled lab environment with traffic interception analysis and mitigation strategies.
+Advanced DNS detection and threat hunting tool for:
 
-### IDOR Vulnerability Analysis
+* DGA detection
+* DNS tunneling detection
+* Beaconing analysis
+* IOC extraction
+* Live DNS monitoring
+* PCAP traffic analysis
 
-Broken Access Control testing using PortSwigger and Burp Suite with unauthorized object reference manipulation.
+### Wazuh Authentication Monitoring Lab
 
-### DVWA Brute Force Analysis
+Detection engineering lab focused on:
 
-Authentication attack simulation against DVWA login forms using Hydra and request analysis.
+* SSH authentication monitoring
+* Failed login detection
+* Brute-force visibility
+* SIEM alert analysis
 
-### SSH Brute Force Attack
+### SSH Brute Force Detection
 
-Brute force testing against SSH service on port 22 with authentication monitoring and defense recommendations.
+Authentication attack simulation and log-based detection analysis for SSH services.
 
-### Phishing Simulation
+### Malware Traffic Analysis
 
-Credential harvesting simulation using SEToolkit with phishing awareness and mitigation strategies.
-
-### Google Dorking Security Analysis
-
-OSINT-based exposure analysis using search engine indexing and security misconfiguration discovery.
+PCAP-based traffic investigation using real malware traffic samples and DNS analysis workflows.
 
 ---
 
-## Learning Progress
+## Current Focus
 
-* TryHackMe
-* PicoCTF
-* Linux Security Labs
-* Wazuh Detection Labs
-* SOC Incident Analysis
-* Blue Team Fundamentals
-
-Currently improving practical detection and incident response skills for junior SOC roles.
+* Threat Detection
+* Detection Engineering
+* Blue Team Operations
+* Network Traffic Analysis
+* Wazuh Labs
+* DFIR Fundamentals
+* SOC Analyst Skill Development
 
 ---
 
 ## Goal
 
-Build strong technical skills and practical experience to become a reliable Junior SOC Analyst and grow in Blue Team operations.
+Build strong hands-on Blue Team and detection engineering skills to become a reliable SOC Analyst and DFIR specialist.
 
----
